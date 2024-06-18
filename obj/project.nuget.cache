@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XSKUG225Jmo3MoqngjCI5zGk6P7WSj/032H4B6jit+ChugXeeGwwrmqauad6TDnVpFawnqtRfj1znO3T30z7tQ==",
+  "success": true,
+  "projectFilePath": "/Users/weidonghu/Documents/IsGusVisitingIsland/IsGusVisitingIsland.csproj",
+  "expectedPackageFiles": [
+    "/Users/weidonghu/.nuget/packages/pathoschild.stardew.modbuildconfig/4.1.1/pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

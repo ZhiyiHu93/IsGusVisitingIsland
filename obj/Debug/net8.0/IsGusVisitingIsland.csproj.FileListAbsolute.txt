@@ -1,0 +1,8 @@
+/Users/weidonghu/Documents/IsGusVisitingIsland/bin/Debug/net8.0/IsGusVisitingIsland.deps.json
+/Users/weidonghu/Documents/IsGusVisitingIsland/bin/Debug/net8.0/IsGusVisitingIsland.dll
+/Users/weidonghu/Documents/IsGusVisitingIsland/obj/Debug/net8.0/IsGusVisitingIsland.csproj.AssemblyReference.cache
+/Users/weidonghu/Documents/IsGusVisitingIsland/obj/Debug/net8.0/IsGusVisitingIsland.GeneratedMSBuildEditorConfig.editorconfig
+/Users/weidonghu/Documents/IsGusVisitingIsland/obj/Debug/net8.0/IsGusVisitingIsland.AssemblyInfoInputs.cache
+/Users/weidonghu/Documents/IsGusVisitingIsland/obj/Debug/net8.0/IsGusVisitingIsland.AssemblyInfo.cs
+/Users/weidonghu/Documents/IsGusVisitingIsland/obj/Debug/net8.0/IsGusVisitingIsland.csproj.CoreCompileInputs.cache
+/Users/weidonghu/Documents/IsGusVisitingIsland/obj/Debug/net8.0/IsGusVisitingIsland.dll
