@@ -1,0 +1,7 @@
+{
+    "IGVI.Phone_Gus_Open":"Hello? Hi @! Yes... today's special is: '{0}'! I'm tending the bar on Ginger Island today, but We're open right now, so feel free to come on in for a taste. *click*",
+    "IGVI.Phone_Gus_Open_Rare": "(You hear slurping and chewing sounds on the other end...)#$b#*gulp* ... Uh.. Oh! Well, hello! Hahah... pardon me, I was just tasting today's special, '{0}'. It's delicious.Yes... Yes, I'm tending the bar on Ginger Island today, but we're open right now. Come by if you want a taste! *click*",
+    "IGVI.Phone_Gus_Closed":"Hello, this is Gus from the Stardrop Saloon. We're currently closed, and I'm tending the bar on Ginger Island today, but please come by later if you'd like to try our daily special, '{0}'! *beep*",
+    "IGVI.Phone_Gus_Open_NoDishOfTheDay": "Hello? Hi @! Yup, I'm tending the bar on Ginger Island today, but we're open right now. Hope to see you soon! *click*$h",
+    "IGVI.Phone_Gus_Closed_NoDishOfTheDay": "Hello, this is Gus from the Stardrop Saloon. I'm tending the bar on Ginger Island today, and we're currently closed. Please stop in between 12PM and 12AM if you'd like some of our delicious food and drink. *beep*",
+}

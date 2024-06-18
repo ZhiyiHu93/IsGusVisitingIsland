@@ -1,0 +1,21 @@
+{
+    "Format": "2.2.0",
+    "Changes": [
+        // your changes will go here
+        {
+			"LogName": "Telephone Dialogue Changes",
+			"Action": "EditData",
+			"Target": "Strings/Characters",
+			"Entries": {
+				"Phone_Gus_Open": "{{i18n:IGVI.Phone_Gus_open}}",
+                "Phone_Gus_Open_Rare":"{{i18n:IGVI.Phone_Gus_Open_Rare}}",
+                "Phone_Gus_Closed": "{{i18n:IGVI.Phone_Gus_Closed}}",
+                "Phone_Gus_Open_NoDishOfTheDay": "{{i18n:IGVI.Phone_Gus_Open_NoDishOfTheDay}}",
+                "Phone_Gus_Closed_NoDishOfTheDay": "{{i18n:IGVI.Phone_Gus_Closed_NoDishOfTheDay}}",
+			},
+            "When": {
+                "SaltyEggplant.IsGusVisitingIsland/IsVisiting": "true"
+            }
+		},
+    ]
+}
